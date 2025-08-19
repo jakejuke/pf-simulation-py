@@ -1,0 +1,62 @@
+.o
+.exe
+*.out
+wdir/*
+workdir/*
+test/images
+test/nvtest/*.o
+exec/misorientation
+exec/sim2d 
+exec/simiso2d
+exec/simisopp2d
+exec/simpp2d
+exec/sim3d
+exec/simiso3d
+exec/simisopp3d
+exec/run_temp.txt
+exec/simpp3d
+exec/generate_particlefield2d
+exec/generate_particlefield3d
+data/300x300_Aniso/IDs_with_ori.mat
+exec/generate_misorientation
+exec/readLmap
+*.dSYM
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# VS Code generated files #
+###########################
+.vscode
+*.dSYM
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class

@@ -15,3 +15,7 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
+   user_guide/docstring_guide
+   user_guide/testing_guide
+   background/intro
+   background/basics

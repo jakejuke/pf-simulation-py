@@ -1,0 +1,9 @@
+* verteilungsfunktion for misorientierung:
+	0-68 grad in 0,01 grad schritten
+
+* kontrolliere misorientierung berechnung
+
+* implementiere anisotropen fall
+
+*
+

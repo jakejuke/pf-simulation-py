@@ -1,0 +1,2 @@
+
+* deprecated: mpi: grid implementation, datatypes, communication pattern and buffers
